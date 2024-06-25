@@ -10,3 +10,9 @@ Array1 = [1,2,3,4,7,0,0,0]
 Array2 = [2,5,6]
 LeetCodeE().MergeSortedArray1(Array1 , Array2 , 5, 3)
 print(Array1)
+
+
+print("Second exercise")
+Array1 = [1,2,2,3,5,7,2]
+print(LeetCodeE().removeElement1(Array1, 2))
+print(Array1)
